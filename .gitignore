@@ -1,0 +1,31 @@
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.opensdf
+*.sdf
+*.suo
+ipch/
+*.user
+
+# Build outputs
+/x64/
+/x86/
+/build/
+/out/
+/bin/
+/Debug/
+/Release/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+Makefile
+cmake_install.cmake
+compile_commands.json
+
+# Other
+.DS_Store
+Thumbs.db
